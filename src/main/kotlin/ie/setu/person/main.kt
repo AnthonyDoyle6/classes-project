@@ -1,4 +1,5 @@
-package ie.setu.person
+package ie.setu.classes
 
-class main {
+data class Person(var firstName: String, var lastName: String) {
+
 }
